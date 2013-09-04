@@ -1,0 +1,7 @@
+base   ddate
+author Maximilian Irro
+email  max@disposia.org
+date   2013-09-04
+name   ddate plugin
+desc   Converts Gregorian dates to Discordian dates
+url    http://dokuwiki.org/plugin:include
